@@ -1,2 +1,2 @@
 # Library-Management-System
-The project is a database-driven library management system that keeps track of all information about books in the library, their cost, status, and total number of books available in the library.
+A SQL-based project for managing library operations, including book inventory, employe management, customer registration, and book issue/return tracking.
